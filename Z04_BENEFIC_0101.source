@@ -1,0 +1,11 @@
+/*
+Name: BENE_0101
+Key:  RESOLVED
+Entity: 04
+*/
+
+length  z04_frst_rqo_utc_trx_dttm 8.;
+length  z04_Bene_max_amount_1 8.;
+length  z04_Bene_Curr_amount 8.;
+length  z04_Bene_Prev_amount 8.;
+

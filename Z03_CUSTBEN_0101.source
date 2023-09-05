@@ -1,0 +1,7 @@
+/*
+Name: CUSTBEN_0101
+Key:  RESOLVED
+Entity: 03
+*/
+
+length  z03_frst_rqo_utc_trx_dttm 8.;

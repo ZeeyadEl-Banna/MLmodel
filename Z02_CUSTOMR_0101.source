@@ -1,0 +1,12 @@
+/*
+Name: CUSTOMR_0101
+Key:  RESOLVED
+Entity: 02
+*/
+length  z02_prev_rqo_tran_dttm 8.;
+length  z02_curr_rqo_tran_dttm 8.;
+length  z02_pointer_dttm_hr 8.;
+length  z02_pointer_dttm_3day 8.;
+length  z02_sum6hr_1 - z02_sum6hr_6 8.;
+length  z02_sum_log_amt_1 - z02_sum_log_amt_30 8.;
+length  z02_sum_cnt_1 - z02_sum_cnt_30 8.;
